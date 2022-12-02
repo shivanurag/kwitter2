@@ -1,0 +1,60 @@
+body
+{
+background-color: dodgerblue;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#div1
+{
+    margin-left: 500px;
+}
+
+#cutebird
+{
+border-radius: 30px;
+}
+
+#logout
+{
+	font-size: 20px; float: right;
+}
+
+#add_room
+{
+    margin-left:700px;
+    border-radius:30px; 
+    cursor:pointer;
+}
+
+#TR
+{
+    margin-left:650px;
+}
+
+#login_button
+{
+    border-radius:30px;
+    cursor:pointer;
+}
+
+#KTR
+{
+    margin-left:100px;
+}
+
+#output
+{
+	padding: 10px; width:80%;background: rgba(255,255,255,0.8);border-radius: 15px;
+    margin-left:150px ;
+}
+
+.input_div_room_page
+{
+	width:80%;
+    height:50;
+}
+
+.container
+{
+    float:center;
+}
